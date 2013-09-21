@@ -1,4 +1,4 @@
-CXX = xcrun g++                                     # compiler
+CXX = g++                                     # compiler
 CXXFLAGS = -g -Wall -MMD                      # compiler flags
 MAKEFILE NAME = ${firstword ${MAKEFILE LIST}} # makefile name
 
