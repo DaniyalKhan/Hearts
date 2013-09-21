@@ -23,8 +23,8 @@ If you run the file without any options, 4 AIs will automatically play the game 
 To specify number of players, enter on the command line:
   ./hearts -p [name_1] [player_type_1] [name_2] [player_type_2] [name_3] [player_type_3] [name_4] [player_type_4]
 where: 
-- <player_type> is either H (human), R (random AI player), or S (smart AI player) and 
-- <name_x> is the name of the player. 
+- [player_type] is either H (human), R (random AI player), or S (smart AI player) and 
+- [name_x] is the name of the player. 
   - Players that are 'Human' will have an 'h' prefixed to their name
   - AIs that are 'smart' will have 's' prefixed to their name
   - AIs that are 'random' will have an 'r' prefixed to their name
