@@ -8,8 +8,8 @@ Developers:
 - Daniyal Khan
 - Shahzaib Bhatti
 
-Max number of players: 4
-Min number if players: 0 (watch the AIs duke it out!)
+- Max number of players: 4
+- Min number if players: 0 (watch the AIs duke it out!)
 
 Running Instructions:
 ======================
