@@ -38,4 +38,4 @@ How To Play:
 During each player's turn, they can see the cards they have in their hand. 
 They can then play a card from their hand by typing the card in the terminal and hitting enter.
 The game follwos the traditional rules of hearts, with a few exceptions.
-First player to empty their hands of cards wins!
+First player to empty their hand of cards wins!
